@@ -114,6 +114,13 @@ Evolução do patrimônio, distribuição de despesas, taxa de poupança e metas
 - **Infraestrutura de produção:** configuração do Nginx, do PM2 e das variáveis de ambiente.
 - **Testes:** a suíte passou de 55 para 66 testes, cobrindo cada correção.
 
+## Equipe
+
+| Pessoa | Papel |
+|---|---|
+| [Lucas Pacifico](https://github.com/LucasPacifico0) | [ex.: primeira versão do projeto, front-end, banco de dados e SEO] |
+| [Henrique Alencar](https://github.com/HenriqueAlencar5) | Segurança, concorrência, parcelamento, build e infraestrutura de produção |
+
 ## Status
 
 Em desenvolvimento. Próximos passos: recuperação de senha e confirmação de e-mail (e-mail transacional),
